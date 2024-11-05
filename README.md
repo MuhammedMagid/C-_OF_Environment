@@ -1,1 +1,1 @@
-# C++ using OpenFOAM environment
+# C++ using OpenFOAM OpenFOAM® framework
