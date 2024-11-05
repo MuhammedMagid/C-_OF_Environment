@@ -1,1 +1,1 @@
-# C-_OF_Environment
+# C++ using OpenFOAM environment
